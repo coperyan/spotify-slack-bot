@@ -8,7 +8,11 @@ Spotify Slack Bot
 **Sources:**
 
 Slack API - Client (https://github.com/slackapi/python-slackclient)
+
 Slack API - Events (https://github.com/slackapi/python-slack-events-api)
+
 Spotipy (https://github.com/plamere/spotipy)
+
 Flask (https://github.com/pallets/flask)
+
 ngrok - Localhost Tunneling (https://ngrok.com)
